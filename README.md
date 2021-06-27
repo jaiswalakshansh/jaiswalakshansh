@@ -1,6 +1,5 @@
-# [![]()](https://akshanshjaiswal.com)
+# [![](https://github.com/jaiswalakshansh/jaiswalakshansh/raw/master/icons/banner.png)](https://akshanshjaiswal.com)
 <p align='center'>
-<a href="https://akshanshjaiswal.com"><img height="30" src="https://github.com/jaiswalakshansh/jaiswalakshansh/blob/master/icons/akshansh.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hackerone.com/akshansh"><img height="30" src="https://github.com/jaiswalakshansh/jaiswalakshansh/blob/master/icons/hackerone.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/akshanshjaiswl"><img height="30" src="https://github.com/jaiswalakshansh/jaiswalakshansh/blob/master/icons/twitter.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/akshanshjaiswal/"><img height="30" src="https://github.com/jaiswalakshansh/jaiswalakshansh/blob/master/icons/linkedin.png?raw=true"></a>
