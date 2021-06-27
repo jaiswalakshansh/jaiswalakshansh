@@ -1,4 +1,4 @@
-# [![](https://cydrill.com/wp-content/uploads/iStock-935330354-2048x1365.jpg)](https://akshanshjaiswal.com)
+# [![]()](https://akshanshjaiswal.com)
 <p align='center'>
 <a href="https://akshanshjaiswal.com"><img height="30" src="https://github.com/jaiswalakshansh/jaiswalakshansh/blob/master/icons/akshansh.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hackerone.com/akshansh"><img height="30" src="https://github.com/jaiswalakshansh/jaiswalakshansh/blob/master/icons/hackerone.png?raw=true"></a>&nbsp;&nbsp;
